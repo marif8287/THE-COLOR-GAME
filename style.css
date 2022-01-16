@@ -1,0 +1,90 @@
+body{
+
+    margin: 0px;
+    background-color: black;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+h1{
+
+    margin: 0px auto;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    background-color: rgb(29, 158, 158);
+    text-align: center;
+}
+
+#buttons{
+
+    background-color: rgb(41, 175, 130);
+    height: 30px;
+
+}
+
+button{
+
+    margin: 0;
+    background-color: burlywood;
+    color: green;
+}
+
+.new-color{
+
+    height: 30px;
+    width: 150px;
+    font-weight: bolder;
+    margin-left: 480px;
+
+}
+
+.easy{
+
+    margin-left: 250px;
+    padding: 0;
+    height: 30px;
+    width: 80px;
+    font-weight: bolder;
+}
+
+.rgb{
+
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    height: 40px;
+    color: brown ;
+}
+
+.medium,.hard{
+
+    display: inline-block;
+    margin: 0;
+    height: 30px;
+    width: 80px;
+    padding: 0;
+    font-weight: bolder;
+}
+
+.message{
+
+    margin-top: 10px;
+    color: antiquewhite;
+}
+
+#colors{
+
+    margin: 10px auto;
+    width: 340px;
+    
+}
+
+.square{
+
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 5px;
+}
+
