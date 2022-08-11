@@ -1,12 +1,10 @@
 body{
-
     margin: 0px;
-    background-color: black;
+    background-color: rgb(7, 4, 4);
     font-family: 'Luxurious Roman', cursive;
 }
 
 h1{
-
     margin: 0px auto;
     padding-top: 25px;
     padding-bottom: 15px;
@@ -15,17 +13,20 @@ h1{
 }
 
 #buttons{
-
-    background-color: rgb(41, 175, 130);
+    background-color: rgb(16, 94, 68);
     height: 30px;
+}
 
+button:hover{
+    background-color: red;
+    color: white;
 }
 
 button{
 
     margin: 0;
     background-color: burlywood;
-    color: green;
+    color: brown
 }
 
 .new-color{
@@ -66,16 +67,13 @@ button{
 }
 
 .message{
-
     margin-top: 10px;
     color: antiquewhite;
 }
 
 #colors{
-
     margin: 10px auto;
     width: 340px;
-    
 }
 
 .square{
