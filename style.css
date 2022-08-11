@@ -86,3 +86,6 @@ button{
     border-radius: 5px;
 }
 
+.square:hover{
+    opacity: 0.8
+}
